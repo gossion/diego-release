@@ -1,0 +1,16 @@
+{
+  "releases": [
+    {
+      "name": "garden-runc-release",
+      "repository": "cloudfoundry"
+    },
+    {
+      "name": "etcd-release",
+      "repository": "cloudfoundry-incubator"
+    },
+    {
+      "name": "cflinuxfs2-rootfs-release",
+      "repository": "cloudfoundry"
+    }
+  ]
+}
