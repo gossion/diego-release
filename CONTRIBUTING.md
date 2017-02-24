@@ -195,9 +195,7 @@ On OS X, follow these steps to install and configure MySQL and Postgres:
         ./scripts/run-unit-tests
 
    This command will run all regular unit tests, as well as BBS and component
-   integration tests where a backing store is required in MySQL-backed and Postgres-backed modes.
-
-**NOTE:** Steps 14-17 could be skipped if code to support mssql is not yet merged.
+   integration tests where a backing store is required in MySQL-backed, Postgres-backed and MSSQL-backed modes.
 
 ## <a name="deploy-bosh-lite"></a> Deploying Diego to BOSH-Lite
 
